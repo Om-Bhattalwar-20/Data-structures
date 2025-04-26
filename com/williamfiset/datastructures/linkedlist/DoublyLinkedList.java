@@ -1,5 +1,4 @@
 /**
- * A doubly linked list implementation.
  *
  * @author William Fiset, william.alexandre.fiset@gmail.com
  */
