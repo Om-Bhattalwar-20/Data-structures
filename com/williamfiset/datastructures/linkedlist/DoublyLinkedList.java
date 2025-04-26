@@ -1,5 +1,4 @@
- 
-package com.williamfiset.datastructures.linkedlist;
+ package com.williamfiset.datastructures.linkedlist;
 
 public class DoublyLinkedList<T> implements Iterable<T> {
   private int size = 0;
