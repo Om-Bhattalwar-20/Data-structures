@@ -1,4 +1,4 @@
-  */
+ 
 package com.williamfiset.datastructures.linkedlist;
 
 public class DoublyLinkedList<T> implements Iterable<T> {
