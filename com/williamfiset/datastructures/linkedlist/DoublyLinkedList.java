@@ -20,7 +20,7 @@ public class DoublyLinkedList<T> implements Iterable<T> {
     }
   }
 
-  // Empty this linked list, O(n)
+  // Empty this linked list, 
   public void clear() {
     Node<T> trav = head;
     while (trav != null) {
