@@ -2,7 +2,6 @@
 .DS_STORE
 *.pyc
 *.hprof
-
 /.idea/
 
 .gradle
